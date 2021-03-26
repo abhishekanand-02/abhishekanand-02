@@ -1,16 +1,4 @@
-### Hello Connections,It's Abhishek Anand 👋
-
-<!--
-**abhishekanand-02/abhishekanand-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Web Development
-- 🌱 I’m currently learning ...c++,javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...www.linkedin.com/in/abhishek-anand-766bb0207/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello World,I'm Abhishek Anand 👋
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning c++,javascript
+- 📫 How to reach me: www.linkedin.com/in/abhishek-anand-766bb0207/
